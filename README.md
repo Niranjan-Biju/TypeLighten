@@ -1,3 +1,3 @@
-# TypeOnSite
+# TypeLighten
 
-A Chrome extension that lets users practice typing on any website by turning selected text into live typing practice
+A web app where users can practice typing using meaningful text passages, get real-time feedback, and view their typing stats — all built with Django.
