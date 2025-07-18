@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.sqlite3
+*.log
+*.pot
+*.pyc
+*.pyo
+
+# Django specific
+db.sqlite3
+*.mo
+*.pyc
+*.pyo
+
+# Virtualenv
+typevenv/
+*.env
+
+# VSCode and system files
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Migrations (optional, sometimes you keep them)
+*/migrations/__pycache__/
+*/migrations/*.pyc
+# Uncomment below to ignore migrations completely (only if team agrees)
+# */migrations/
+
+# Pytest
+htmlcov/
+.coverage
+.pytest_cache/
+
+
