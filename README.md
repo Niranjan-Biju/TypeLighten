@@ -26,3 +26,7 @@ A web app where users can practice typing using meaningful text passages, get re
 - User stats/history.
 
 <code>leaderboard</code>:(future)
+
+## APIs
+
+APIs created by Django REST Framework
